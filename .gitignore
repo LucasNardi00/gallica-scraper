@@ -1,0 +1,14 @@
+# Bancos de dados gerados pelo pipeline
+*.db
+
+# Planilhas de entrada
+*.xlsx
+*.xls
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual, se você criar um
+venv/
+.venv/
